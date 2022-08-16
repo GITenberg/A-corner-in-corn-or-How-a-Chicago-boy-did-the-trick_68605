@@ -1,0 +1,35 @@
+_repo: A-corner-in-corn-or-How-a-Chicago-boy-did-the-trick_68605
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Self-made man
+    aliases:
+    - man, Self-made
+    - Man, Self-Made
+    birthdate: 1853
+    deathdate: 1915
+    gutenberg_agent_id: '54238'
+    url: http://www.gutenberg.org/2009/agents/54238
+description: ''
+gutenberg_issued: '2022-07-24'
+identifiers:
+  gutenberg: '68605'
+language: en
+pgterms:marc905: 20200620183822man
+pgterms:marc906: '1905'
+pgterms:marc907: us
+production_note: David Edwards, SF2001, and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (Northern Illinois University Digital Library)
+publication_note: United States :Frank Tousey Publisher,1905.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Fame and Fortune Weekly, No. 3, October 20, 1905
+subjects:
+- !lcc 'PS'
+- !lcsh 'Chicago (Ill.) -- Fiction'
+- !lcsh 'Dime novels'
+- !lcsh 'Success -- Fiction'
+- GITenberg
+title: A corner in corn; or, How a Chicago boy did the trick
+url: http://www.gutenberg.org/ebooks/68605
